@@ -1,0 +1,116 @@
+<html>
+
+<head>
+    <script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+    <script
+        type="text/javascript">window.addEventListener('DOMContentLoaded', function () { var v = archive_analytics.values; v.service = 'wb'; v.server_name = 'wwwb-app220.us.archive.org'; v.server_ms = 425; archive_analytics.send_pageview({}); });</script>
+    <script type="text/javascript" src="/_static/js/bundle-playback.js?v=KTqwAcYd" charset="utf-8"></script>
+    <script type="text/javascript" src="/_static/js/wombat.js?v=UHAOicsW" charset="utf-8"></script>
+    <script type="text/javascript">
+        __wm.init("https://web.archive.org/web");
+        __wm.wombat("http://www.google.com:80/", "20001018230013", "https://web.archive.org/", "web", "/_static/",
+            "971910013");
+    </script>
+    <link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=fantwOh2" />
+    <link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+    <!-- End Wayback Rewrite JS Include -->
+    <title>Google</title>
+    <base href="https://web.archive.org/web/20001018230013/http://www.google.com/">
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+    <style>
+        <!--
+        body {
+            font-family: arial, sans-serif;
+        }
+
+        //
+        -->
+    </style>
+    <script>
+< !--
+            function setfocus() {
+                document.f.q.focus();
+            }
+// --></script>
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#0000cc" vlink="551a8b" alink="#ff0000" onload="setfocus()">
+    <!-- BEGIN WAYBACK TOOLBAR INSERT -->
+    <style type="text/css">
+        body {
+            margin-top: 0 !important;
+            padding-top: 0 !important;
+            /*min-width:800px !important;*/
+        }
+    </style>
+    <script>__wm.rw(0);</script>
+    <script type="text/javascript">//<![CDATA[
+        __wm.bt(675, 27, 25, 2, "web", "http://www.google.com/", "20001018230013", 1996, "/_static/", ["/_static/css/banner-styles.css?v=fantwOh2", "/_static/css/iconochive.css?v=qtvMKcIJ"], false);
+        __wm.rw(1);
+//]]></script>
+    <!-- END WAYBACK TOOLBAR INSERT -->
+    <center><img height="125" src="/web/20001018230013im_/http://www.google.com/images/title_homepage2.gif" width="305"
+            usemap="#map1" border="0" alt="Google"> <br><br>
+        <form action="/web/20001018230013/http://www.google.com/search" method="get" name="f">
+            <table>
+                <tr>
+                    <td align="center">
+                        <font face="arial,sans-serif"><a
+                                href="/web/20001018230013/http://www.google.com/advanced_search">
+                                <font color="#6f6f6f" size="-1">Advanced Search</font>
+                            </a> - <a href="/web/20001018230013/http://www.google.com/preferences">
+                                <font color="#6f6f6f" size="-1">Language, Display, &amp; Filtering Options</font>
+                            </a></font><br><input type="text" value="" name="q" size="55" maxlength="256"><br>
+                        <script> < !--document.f.q.focus(); //--> </script><input name="btnG" type="submit"
+                            value="Google Search"><input name="btnI" type="submit" value="I'm Feeling Lucky">
+                    </td>
+                </tr>
+            </table>
+        </form>
+        <p><br>
+        <p>
+            <font size="-1">Google index: 1,060,000,000 web pages</font>
+        <p>
+            <font size="-1">New! <a href="stock_promo.html"> Use Google to get stock quotes</a> - just enter a ticker
+                symbol.</font>
+        <p><br>
+        <p>
+            <font size="-1"><a href="jobs.html">
+                    <font color="#6f6f6f">Cool Jobs</font>
+                </a> - <a href="https://web.archive.org/web/20001018230013/http://directory.google.com/">
+                    <font color="#6f6f6f">Try our Web Directory</font>
+                </a> - <a href="adv/intro.html">
+                    <font color="#6f6f6f">Advertise with Us</font>
+                </a><br><a href="websearch_programs.html">
+                    <font color="#6f6f6f">Add Google to your Site</font>
+                </a> - <a href="buttons.html">
+                    <font color="#6f6f6f">Google Browser Buttons</font>
+                </a> - <a href="about.html">
+                    <font color="#6f6f6f">Everything Else</font>
+                </a></font>
+        <p>
+            <font size="-2" color="#999999">&copy;2000 Google</font>
+    </center>
+</body>
+
+</html>
+<!--
+     FILE ARCHIVED ON 23:00:13 Oct 18, 2000 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:33:11 Aug 28, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  exclusion.robots: 1.402 (7)
+  exclusion.robots.policy: 1.318 (7)
+  RedisCDXSource: 55.401 (7)
+  esindex: 0.066 (7)
+  LoadShardBlock: 985.693 (24)
+  PetaboxLoader3.datanode: 598.477 (25)
+  CDXLines.iter: 438.986 (12)
+  load_resource: 94.891
+  PetaboxLoader3.resolve: 53.275
+-->
